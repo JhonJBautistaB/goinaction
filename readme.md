@@ -12,12 +12,12 @@ Este repositorio está dedicado al estudio y práctica del lenguaje Go, siguiend
 - **Capitulo 4:** Collection Types.
 - **Capitulo 5:** Working With Types
 - **Capitulo 6:** Generics
-- **Capitulo 7:** Erros in Go
+- **Capitulo 7:** Errors in Go
 - **Capitulo 8:** Testing and Tooling
 
 ## Estructura
 
-Organizar por carpeta de acuerdo a tema estudiado y el cual se realizo un proceso de practicas
+Organizar por carpeta de acuerdo a tema estudiado y el cual se realizó un proceso de prácticas.
 
 ## Requisitos
 
